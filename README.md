@@ -46,3 +46,6 @@ public class Main {
 - 그리디
   - [1744번 - 수 묶기](https://github.com/sjunh812/algorithm/blob/013efc6a21040c7b923f9c343f5f45dda151812b/%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%A6%AC%EB%94%94/1744%EB%B2%88.%20%EC%88%98%20%EB%AC%B6%EA%B8%B0/Main.java)
   - [1700번 - 멀티탭 스케줄링](https://github.com/sjunh812/algorithm/blob/81932afeb9c7d8c710256617104955cb83116185/%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%A6%AC%EB%94%94/1700%EB%B2%88.%20%EB%A9%80%ED%8B%B0%ED%83%AD%20%EC%8A%A4%EC%BC%80%EC%A5%B4%EB%A7%81/Main.java)
+  - [3109번 - 빵집](https://github.com/sjunh812/algorithm/blob/5d127044a0b3ea8fa8d5c030cce9812637c539d9/%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%A6%AC%EB%94%94/3109%EB%B2%88.%20%EB%B9%B5%EC%A7%91/Main.java)
+  - [1080번 - 행렬](https://github.com/sjunh812/algorithm/blob/5d127044a0b3ea8fa8d5c030cce9812637c539d9/%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%A6%AC%EB%94%94/1080%EB%B2%88.%20%ED%96%89%EB%A0%AC/Main.java)
+  - [10775번 - 공항](https://github.com/sjunh812/algorithm/blob/5d127044a0b3ea8fa8d5c030cce9812637c539d9/%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%A6%AC%EB%94%94/10775%EB%B2%88.%20%EA%B3%B5%ED%95%AD/Main.java)
