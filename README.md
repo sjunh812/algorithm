@@ -45,6 +45,9 @@ public class Main {
   - [예제 4.2 - 시각](https://github.com/sjunh812/algorithm/blob/f2746048f4188510c464305ff460b34bfbaf1245/%EC%9D%B4%EC%BD%94%ED%85%8C/%EA%B5%AC%ED%98%84/4.2%20%EC%8B%9C%EA%B0%81/Main.java)
   - [예제 4.3 - 왕실의 나이트](https://github.com/sjunh812/algorithm/blob/f2746048f4188510c464305ff460b34bfbaf1245/%EC%9D%B4%EC%BD%94%ED%85%8C/%EA%B5%AC%ED%98%84/4.3%20%EC%99%95%EC%8B%A4%EC%9D%98%20%EB%82%98%EC%9D%B4%ED%8A%B8/Main.java)
   - [예제 4.4 - 게임 개발](https://github.com/sjunh812/algorithm/blob/f2746048f4188510c464305ff460b34bfbaf1245/%EC%9D%B4%EC%BD%94%ED%85%8C/%EA%B5%AC%ED%98%84/4.4%20%EA%B2%8C%EC%9E%84%20%EA%B0%9C%EB%B0%9C/Main.java)
+  - [예제 12.1 - 럭키 스트레이트](https://github.com/sjunh812/algorithm/blob/84f7717da3a56bb67e46a712fb107ab57fca4d05/%EC%9D%B4%EC%BD%94%ED%85%8C/%EA%B5%AC%ED%98%84/12.1%20%EB%9F%AD%ED%82%A4%20%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%ED%8A%B8/Main.java)
+  - [예제 12.2 - 문자열 재정렬](https://github.com/sjunh812/algorithm/blob/84f7717da3a56bb67e46a712fb107ab57fca4d05/%EC%9D%B4%EC%BD%94%ED%85%8C/%EA%B5%AC%ED%98%84/12.2%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%9E%AC%EC%A0%95%EB%A0%AC/Main.java)
+  - [예제 12.3 - 문자열 압축](https://github.com/sjunh812/algorithm/blob/84f7717da3a56bb67e46a712fb107ab57fca4d05/%EC%9D%B4%EC%BD%94%ED%85%8C/%EA%B5%AC%ED%98%84/12.3%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95/Main.java)
 <br>
 
 ## 2. 백준 문제 풀기
