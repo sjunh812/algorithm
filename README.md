@@ -49,6 +49,10 @@ public class Main {
   - [예제 12.2 - 문자열 재정렬](https://github.com/sjunh812/algorithm/blob/84f7717da3a56bb67e46a712fb107ab57fca4d05/%EC%9D%B4%EC%BD%94%ED%85%8C/%EA%B5%AC%ED%98%84/12.2%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%9E%AC%EC%A0%95%EB%A0%AC/Main.java)
   - [예제 12.3 - 문자열 압축](https://github.com/sjunh812/algorithm/blob/84f7717da3a56bb67e46a712fb107ab57fca4d05/%EC%9D%B4%EC%BD%94%ED%85%8C/%EA%B5%AC%ED%98%84/12.3%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95/Main.java)
   - [예제 12.4 - 자물쇠와 열쇠](https://github.com/sjunh812/algorithm/blob/a99dce7d256d41f953cbb430041175cfdfb84612/%EC%9D%B4%EC%BD%94%ED%85%8C/%EA%B5%AC%ED%98%84/12.4%20%EC%9E%90%EB%AC%BC%EC%87%A0%EC%99%80%20%EC%97%B4%EC%87%A0/Main.java)
+  - [예제 12.5 - 뱀](https://github.com/sjunh812/algorithm/blob/8cb73cd119cee54db3fb592237f96601ee80cfcd/%EC%9D%B4%EC%BD%94%ED%85%8C/%EA%B5%AC%ED%98%84/12.5%20%EB%B1%80/Main2.java)
+  - [예제 12.6 - 기둥과 보 설치](https://github.com/sjunh812/algorithm/blob/8cb73cd119cee54db3fb592237f96601ee80cfcd/%EC%9D%B4%EC%BD%94%ED%85%8C/%EA%B5%AC%ED%98%84/12.6%20%EA%B8%B0%EB%91%A5%EA%B3%BC%20%EB%B3%B4%20%EC%84%A4%EC%B9%98/Main2.java)
+  - [예제 12.7 - 치킨 배달](https://github.com/sjunh812/algorithm/blob/8cb73cd119cee54db3fb592237f96601ee80cfcd/%EC%9D%B4%EC%BD%94%ED%85%8C/%EA%B5%AC%ED%98%84/12.7%20%EC%B9%98%ED%82%A8%20%EB%B0%B0%EB%8B%AC/Main2.java)
+  - [예제 12.8 - 외벽 점검](https://github.com/sjunh812/algorithm/blob/8cb73cd119cee54db3fb592237f96601ee80cfcd/%EC%9D%B4%EC%BD%94%ED%85%8C/%EA%B5%AC%ED%98%84/12.8%20%EC%99%B8%EB%B2%BD%20%EC%A0%90%EA%B2%80/Main2.java)
 <br>
 
 ## 2. 백준 문제 풀기
