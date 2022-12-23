@@ -61,6 +61,9 @@ public class Main {
   - [예제 13.1 - 특정 거리의 도시 찾기](https://github.com/sjunh812/algorithm/blob/c9ce1289672d93630b2f5ca6b8f010ded37a184b/%EC%9D%B4%EC%BD%94%ED%85%8C/DFS%20&%20BFS/13.1%20%ED%8A%B9%EC%A0%95%20%EA%B1%B0%EB%A6%AC%EC%9D%98%20%EB%8F%84%EC%8B%9C%20%EC%B0%BE%EA%B8%B0/Main2.java)
   - [예제 13.2 - 연구소](https://github.com/sjunh812/algorithm/blob/c9ce1289672d93630b2f5ca6b8f010ded37a184b/%EC%9D%B4%EC%BD%94%ED%85%8C/DFS%20&%20BFS/13.2%20%EC%97%B0%EA%B5%AC%EC%86%8C/Main2.java)
   - [예제 13.3 - 경쟁적 전염](https://github.com/sjunh812/algorithm/blob/c9ce1289672d93630b2f5ca6b8f010ded37a184b/%EC%9D%B4%EC%BD%94%ED%85%8C/DFS%20&%20BFS/13.3%20%EA%B2%BD%EC%9F%81%EC%A0%81%20%EC%A0%84%EC%97%BC/Main2.java)
+  - [예제 13.4 - 괄호 변환](https://github.com/sjunh812/algorithm/blob/8c1b170158c2aa63496d6d7cd4fb6850bfda7576/%EC%9D%B4%EC%BD%94%ED%85%8C/DFS%20&%20BFS/13.4%20%EA%B4%84%ED%98%B8%20%EB%B3%80%ED%99%98/Main2.java)
+  - [예제 13.5 - 연산자 끼워 넣기](https://github.com/sjunh812/algorithm/blob/8c1b170158c2aa63496d6d7cd4fb6850bfda7576/%EC%9D%B4%EC%BD%94%ED%85%8C/DFS%20&%20BFS/13.5%20%EC%97%B0%EC%82%B0%EC%9E%90%20%EB%81%BC%EC%9B%8C%20%EB%84%A3%EA%B8%B0/Main2.java)
+  - [예제 13.6 - 감시 피하기](https://github.com/sjunh812/algorithm/blob/8c1b170158c2aa63496d6d7cd4fb6850bfda7576/%EC%9D%B4%EC%BD%94%ED%85%8C/DFS%20&%20BFS/13.6%20%EA%B0%90%EC%8B%9C%20%ED%94%BC%ED%95%98%EA%B8%B0/Main2.java)
 <br>
 
 ## 2. 백준 문제 풀기
