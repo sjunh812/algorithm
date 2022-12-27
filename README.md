@@ -64,6 +64,8 @@ public class Main {
   - [예제 13.4 - 괄호 변환](https://github.com/sjunh812/algorithm/blob/8c1b170158c2aa63496d6d7cd4fb6850bfda7576/%EC%9D%B4%EC%BD%94%ED%85%8C/DFS%20&%20BFS/13.4%20%EA%B4%84%ED%98%B8%20%EB%B3%80%ED%99%98/Main2.java)
   - [예제 13.5 - 연산자 끼워 넣기](https://github.com/sjunh812/algorithm/blob/8c1b170158c2aa63496d6d7cd4fb6850bfda7576/%EC%9D%B4%EC%BD%94%ED%85%8C/DFS%20&%20BFS/13.5%20%EC%97%B0%EC%82%B0%EC%9E%90%20%EB%81%BC%EC%9B%8C%20%EB%84%A3%EA%B8%B0/Main2.java)
   - [예제 13.6 - 감시 피하기](https://github.com/sjunh812/algorithm/blob/8c1b170158c2aa63496d6d7cd4fb6850bfda7576/%EC%9D%B4%EC%BD%94%ED%85%8C/DFS%20&%20BFS/13.6%20%EA%B0%90%EC%8B%9C%20%ED%94%BC%ED%95%98%EA%B8%B0/Main2.java)
+  - [예제 13.7 - 인구 이동](https://github.com/sjunh812/algorithm/blob/2226fd209a21469ff0dc723cbe12b969312bf53f/%EC%9D%B4%EC%BD%94%ED%85%8C/DFS%20&%20BFS/13.7%20%EC%9D%B8%EA%B5%AC%20%EC%9D%B4%EB%8F%99/Main2.java)
+  - [예제 13.8 - 블록 이동하기](https://github.com/sjunh812/algorithm/blob/2226fd209a21469ff0dc723cbe12b969312bf53f/%EC%9D%B4%EC%BD%94%ED%85%8C/DFS%20&%20BFS/13.8%20%EB%B8%94%EB%A1%9D%20%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0/Main.java)
 <br>
 
 ## 2. 백준 문제 풀기
@@ -86,3 +88,6 @@ https://github.com/sjunh812/algorithm/blob/100529c5b4f9143c4ec528cd03579bf168a17
   - [12100번 - 2048 (Easy)](https://github.com/sjunh812/algorithm/blob/61c187d23ed9757ce2df1d014872af4a11ecad75/%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/12100%EB%B2%88.%202048%20(Easy)/Main.java)
   - [14500번 - 테트로미노](https://github.com/sjunh812/algorithm/blob/61c187d23ed9757ce2df1d014872af4a11ecad75/%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/14500%EB%B2%88.%20%ED%85%8C%ED%8A%B8%EB%A1%9C%EB%AF%B8%EB%85%B8/Main.java)
   - [15684번 - 사다리 조작](https://github.com/sjunh812/algorithm/blob/0c0f186e3c902fc6a6a39fe264e4b1b80af23597/%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84/15684%EB%B2%88_%20%EC%82%AC%EB%8B%A4%EB%A6%AC%20%EC%A1%B0%EC%9E%91/Main.java)
+- DFS & BFS
+  - [1012번 - 유기농 배추](https://github.com/sjunh812/algorithm/blob/2226fd209a21469ff0dc723cbe12b969312bf53f/%EB%B0%B1%EC%A4%80/DFS%20&%20BFS/1012%EB%B2%88.%20%EC%9C%A0%EA%B8%B0%EB%86%8D%20%EB%B0%B0%EC%B6%94/Main.java)
+  - [1697번 - 숨바꼭질](https://github.com/sjunh812/algorithm/blob/2226fd209a21469ff0dc723cbe12b969312bf53f/%EB%B0%B1%EC%A4%80/DFS%20&%20BFS/1697%EB%B2%88.%20%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88/Main.java)
