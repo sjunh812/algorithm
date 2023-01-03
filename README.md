@@ -69,7 +69,7 @@ public class Main {
 - 정렬
   - [선택 정렬](https://github.com/sjunh812/algorithm/blob/a3aa64645c95d42a603e60fa4552ca6c81c38a90/%EC%9D%B4%EC%BD%94%ED%85%8C/%EC%A0%95%EB%A0%AC/%EC%84%A0%ED%83%9D%20%EC%A0%95%EB%A0%AC/Main.java)
   - [삽입 정렬](https://github.com/sjunh812/algorithm/blob/a3aa64645c95d42a603e60fa4552ca6c81c38a90/%EC%9D%B4%EC%BD%94%ED%85%8C/%EC%A0%95%EB%A0%AC/%EC%82%BD%EC%9E%85%20%EC%A0%95%EB%A0%AC/Main.java)
-  - [퀵 정렬](https://github.com/sjunh812/algorithm/blob/a3aa64645c95d42a603e60fa4552ca6c81c38a90/%EC%9D%B4%EC%BD%94%ED%85%8C/%EC%A0%95%EB%A0%AC/%ED%80%B5%20%EC%A0%95%EB%A0%AC/Main.java)
+  - [퀵 정렬](https://github.com/sjunh812/algorithm/blob/0a4543924a92f22cf34de8eb6ca749e3078ec6b1/%EC%9D%B4%EC%BD%94%ED%85%8C/%EC%A0%95%EB%A0%AC/%ED%80%B5%20%EC%A0%95%EB%A0%AC/Main.java)
   - [계수 정렬](https://github.com/sjunh812/algorithm/blob/a3aa64645c95d42a603e60fa4552ca6c81c38a90/%EC%9D%B4%EC%BD%94%ED%85%8C/%EC%A0%95%EB%A0%AC/%EA%B3%84%EC%88%98%20%EC%A0%95%EB%A0%AC/Main.java)
   - [예제 6.1 - 위에서 아래로](https://github.com/sjunh812/algorithm/blob/a3aa64645c95d42a603e60fa4552ca6c81c38a90/%EC%9D%B4%EC%BD%94%ED%85%8C/%EC%A0%95%EB%A0%AC/6.1%20%EC%9C%84%EC%97%90%EC%84%9C%20%EC%95%84%EB%9E%98%EB%A1%9C/Main.java)
   - [예제 6.2 - 성적이 낮은 순서로 학생 출력하기](https://github.com/sjunh812/algorithm/blob/a3aa64645c95d42a603e60fa4552ca6c81c38a90/%EC%9D%B4%EC%BD%94%ED%85%8C/%EC%A0%95%EB%A0%AC/6.2%20%EC%84%B1%EC%A0%81%EC%9D%B4%20%EB%82%AE%EC%9D%80%20%EC%88%9C%EC%84%9C%EB%A1%9C%20%ED%95%99%EC%83%9D%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0/Main.java)
@@ -77,6 +77,7 @@ public class Main {
   - [예제 14.1 - 국영수](https://github.com/sjunh812/algorithm/blob/75090f4fef277baf7fc03fef29c2471767baa8e8/%EC%9D%B4%EC%BD%94%ED%85%8C/%EC%A0%95%EB%A0%AC/14.1%20%EA%B5%AD%EC%98%81%EC%88%98/Main.java)
   - [예제 14.2 - 안테나](https://github.com/sjunh812/algorithm/blob/a3aa64645c95d42a603e60fa4552ca6c81c38a90/%EC%9D%B4%EC%BD%94%ED%85%8C/%EC%A0%95%EB%A0%AC/14.2%20%EC%95%88%ED%85%8C%EB%82%98/Main.java)
   - [예제 14.3 - 실패율](https://github.com/sjunh812/algorithm/blob/a3aa64645c95d42a603e60fa4552ca6c81c38a90/%EC%9D%B4%EC%BD%94%ED%85%8C/%EC%A0%95%EB%A0%AC/14.3%20%EC%8B%A4%ED%8C%A8%EC%9C%A8/Main2.java)
+  - [예제 14.4 - 카드 정렬하기](https://github.com/sjunh812/algorithm/blob/0a4543924a92f22cf34de8eb6ca749e3078ec6b1/%EC%9D%B4%EC%BD%94%ED%85%8C/%EC%A0%95%EB%A0%AC/14.4%20%EC%B9%B4%EB%93%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0/Main.java)
 <br>
 
 ## 2. 백준 문제 풀기
@@ -109,3 +110,6 @@ https://github.com/sjunh812/algorithm/blob/100529c5b4f9143c4ec528cd03579bf168a17
   - [7569번 - 토마토](https://github.com/sjunh812/algorithm/blob/644902e1c06f03375c00ea82f01f20959484b224/%EB%B0%B1%EC%A4%80/DFS%20&%20BFS/7569%EB%B2%88.%20%ED%86%A0%EB%A7%88%ED%86%A0/Main.java)
   - [13549번 - 숨바꼭질 3](https://github.com/sjunh812/algorithm/blob/a02889cb29b365420e91a4a50dddeff6b066211c/%EB%B0%B1%EC%A4%80/DFS%20&%20BFS/13549%EB%B2%88.%20%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88%203/Main.java)
   - [9019번 - DSLR](https://github.com/sjunh812/algorithm/blob/a3aa64645c95d42a603e60fa4552ca6c81c38a90/%EB%B0%B1%EC%A4%80/DFS%20&%20BFS/9019%EB%B2%88.%20DSLR/Main.java)
+- 정렬
+  - [1920번 - 수 찾기](https://github.com/sjunh812/algorithm/blob/0a4543924a92f22cf34de8eb6ca749e3078ec6b1/%EB%B0%B1%EC%A4%80/%EC%A0%95%EB%A0%AC/1920%EB%B2%88.%20%EC%88%98%20%EC%B0%BE%EA%B8%B0/Main.java)
+  - [10816번 - 숫자 카드 2](https://github.com/sjunh812/algorithm/blob/0a4543924a92f22cf34de8eb6ca749e3078ec6b1/%EB%B0%B1%EC%A4%80/%EC%A0%95%EB%A0%AC/10816%EB%B2%88.%20%EC%88%AB%EC%9E%90%20%EC%B9%B4%EB%93%9C%202/Main.java)
