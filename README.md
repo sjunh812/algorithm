@@ -3,6 +3,7 @@
 #### ※ 입출력 Tip
 1. ```BufferedReader``` 클래스 이용 → ```Scanner``` 클래스보다 빠른 성능
 2. ```StringTokenizer``` 클래스 이용 → 빠른 문자열 공백처리
+3. ```BufferedWriter``` 클래스 이용 → ```System.out.print()``` 보다 빠른 성능
 #### <예제코드>
 ```java
 import java.util.*;
