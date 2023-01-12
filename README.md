@@ -99,6 +99,9 @@ public class Main {
   - [예제 16.1 - 금광](https://github.com/sjunh812/algorithm/blob/0da1d5dfb2dfe60eb2618ba35eeb346d73ca8847/%EC%9D%B4%EC%BD%94%ED%85%8C/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/16.1%20%EA%B8%88%EA%B4%91/Main.java)
   - [예제 16.2 - 정수 삼각형](https://github.com/sjunh812/algorithm/blob/0da1d5dfb2dfe60eb2618ba35eeb346d73ca8847/%EC%9D%B4%EC%BD%94%ED%85%8C/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/16.2%20%EC%A0%95%EC%88%98%20%EC%82%BC%EA%B0%81%ED%98%95/Main2.java)
   - [예제 16.3 - 퇴사](https://github.com/sjunh812/algorithm/blob/0da1d5dfb2dfe60eb2618ba35eeb346d73ca8847/%EC%9D%B4%EC%BD%94%ED%85%8C/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/16.3%20%ED%87%B4%EC%82%AC/Main2.java)
+  - [예제 16.4 - 병사 배치하기](https://github.com/sjunh812/algorithm/blob/fffb2111d7dd7ccd1ad6c633de5d3994596988cd/%EC%9D%B4%EC%BD%94%ED%85%8C/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/16.4%20%EB%B3%91%EC%82%AC%20%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0/Main.java)
+  - [예제 16.5 - 못생긴 수](https://github.com/sjunh812/algorithm/blob/fffb2111d7dd7ccd1ad6c633de5d3994596988cd/%EC%9D%B4%EC%BD%94%ED%85%8C/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/16.5%20%EB%AA%BB%EC%83%9D%EA%B8%B4%20%EC%88%98/Main.java)
+  - [예제 16.6 - 편집 거리](https://github.com/sjunh812/algorithm/blob/fffb2111d7dd7ccd1ad6c633de5d3994596988cd/%EC%9D%B4%EC%BD%94%ED%85%8C/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/16.6%20%ED%8E%B8%EC%A7%91%20%EA%B1%B0%EB%A6%AC/Main.java)
 <br>
 
 ## 2. 백준 문제 풀기
