@@ -7,7 +7,7 @@ class Main2 {
     new Main2().solution();
   }
 
-  public void solution2() throws Exception {
+  public void solution() throws Exception {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
