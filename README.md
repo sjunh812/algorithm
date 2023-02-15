@@ -129,6 +129,7 @@ public class Main {
 - 2020년 상반기 삼성전자 기출문제
   - [아기 상어(백준 - 16236번)](https://github.com/sjunh812/algorithm/blob/3c41d3c6e0de021b486c3bacddc142ab94af79d7/%EB%B0%B1%EC%A4%80/DFS%20&%20BFS/16236%EB%B2%88.%20%EC%95%84%EA%B8%B0%20%EC%83%81%EC%96%B4/Main.java)
   - [청소년 상어(백준 - 19236번)](https://github.com/sjunh812/algorithm/blob/0f19c5182dc701fe228966b6a227f00908ff9528/%EC%9D%B4%EC%BD%94%ED%85%8C/2020%EB%85%84%20%EC%83%81%EB%B0%98%EA%B8%B0%20%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90%20%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C/%EC%B2%AD%EC%86%8C%EB%85%84%20%EC%83%81%EC%96%B4/Main.java)
+  - [어른 상어(백준 - 19237번)](https://github.com/sjunh812/algorithm/blob/38bbde0ea2a3b94093e7b2a1c72398f6cf1f284c/%EC%9D%B4%EC%BD%94%ED%85%8C/2020%EB%85%84%20%EC%83%81%EB%B0%98%EA%B8%B0%20%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90%20%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C/%EC%96%B4%EB%A5%B8%20%EC%83%81%EC%96%B4/Main.java)
 <br>
 
 ## 2. 백준 문제 풀기
