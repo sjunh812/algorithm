@@ -171,6 +171,7 @@ https://github.com/sjunh812/algorithm/blob/100529c5b4f9143c4ec528cd03579bf168a17
   - [1068번 - 트리](https://github.com/sjunh812/algorithm/blob/a7d3ad49f6c9ea4becde3a388e965c00630fc7fa/%EB%B0%B1%EC%A4%80/DFS%20&%20BFS/1068%EB%B2%88.%20%ED%8A%B8%EB%A6%AC/Main.java)
   - [1167번 - 트리의 지름](https://github.com/sjunh812/algorithm/blob/master/%EB%B0%B1%EC%A4%80/DFS%20%26%20BFS/1167%EB%B2%88.%20%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EC%A7%80%EB%A6%84/Main.java)
   - [2644번 - 촌수계산](https://github.com/sjunh812/algorithm/blob/master/%EB%B0%B1%EC%A4%80/DFS%20%26%20BFS/2644%EB%B2%88.%20%EC%B4%8C%EC%88%98%EA%B3%84%EC%82%B0/Main.java)
+  - [17142번 - 연구소 3](https://github.com/sjunh812/algorithm/blob/master/%EB%B0%B1%EC%A4%80/DFS%20%26%20BFS/17142%EB%B2%88.%20%EC%97%B0%EA%B5%AC%EC%86%8C%203/Main.java)
 - 정렬
   - [1920번 - 수 찾기](https://github.com/sjunh812/algorithm/blob/0a4543924a92f22cf34de8eb6ca749e3078ec6b1/%EB%B0%B1%EC%A4%80/%EC%A0%95%EB%A0%AC/1920%EB%B2%88.%20%EC%88%98%20%EC%B0%BE%EA%B8%B0/Main.java)
   - [10816번 - 숫자 카드 2](https://github.com/sjunh812/algorithm/blob/0a4543924a92f22cf34de8eb6ca749e3078ec6b1/%EB%B0%B1%EC%A4%80/%EC%A0%95%EB%A0%AC/10816%EB%B2%88.%20%EC%88%AB%EC%9E%90%20%EC%B9%B4%EB%93%9C%202/Main.java)
