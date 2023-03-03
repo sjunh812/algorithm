@@ -135,6 +135,9 @@ public class Main {
   - [에라토스테네스의 체](https://github.com/sjunh812/algorithm/blob/master/%EC%9D%B4%EC%BD%94%ED%85%8C/%EB%B6%80%EB%A1%9D/%EC%97%90%EB%9D%BC%ED%86%A0%EC%8A%A4%ED%85%8C%EB%84%A4%EC%8A%A4%EC%9D%98%20%EC%B2%B4/Main.java)
   - [정렬되어 있는 두 리스트 합치기 (투 포인터)](https://github.com/sjunh812/algorithm/blob/master/%EC%9D%B4%EC%BD%94%ED%85%8C/%EB%B6%80%EB%A1%9D/%EC%A0%95%EB%A0%AC%EB%90%98%EC%96%B4%20%EC%9E%88%EB%8A%94%20%EB%91%90%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%20%ED%95%A9%EC%B9%98%EA%B8%B0%20(%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0)/Main.java)
   - [특정한 합을 가지는 연속 수열 찾기 (투 포인터)](https://github.com/sjunh812/algorithm/blob/master/%EC%9D%B4%EC%BD%94%ED%85%8C/%EB%B6%80%EB%A1%9D/%ED%8A%B9%EC%A0%95%ED%95%9C%20%ED%95%A9%EC%9D%84%20%EA%B0%80%EC%A7%80%EB%8A%94%20%EC%97%B0%EC%86%8D%20%EC%88%98%EC%97%B4%20%EC%B0%BE%EA%B8%B0%20(%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0)/Main.java)
+  - [구간 합](https://github.com/sjunh812/algorithm/blob/master/%EC%9D%B4%EC%BD%94%ED%85%8C/%EB%B6%80%EB%A1%9D/%EA%B5%AC%EA%B0%84%20%ED%95%A9/Main.java)
+  - [소수 구하기(백준 - 1929번)](https://github.com/sjunh812/algorithm/blob/master/%EC%9D%B4%EC%BD%94%ED%85%8C/%EB%B6%80%EB%A1%9D/%EC%86%8C%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0%20(%EB%B0%B1%EC%A4%80%20-%201929%EB%B2%88)/Main.java)
+  - [암호 만들기(백준 - 1759번)](https://github.com/sjunh812/algorithm/blob/master/%EC%9D%B4%EC%BD%94%ED%85%8C/%EB%B6%80%EB%A1%9D/%EC%95%94%ED%98%B8%20%EB%A7%8C%EB%93%A4%EA%B8%B0%20(%EB%B0%B1%EC%A4%80%20-%201759%EB%B2%88)/Main.java)
 <br>
 
 ## 2. 백준 문제 풀기
