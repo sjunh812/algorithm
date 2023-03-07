@@ -190,6 +190,7 @@ https://github.com/sjunh812/algorithm/blob/100529c5b4f9143c4ec528cd03579bf168a17
   - [1654번 - 랜선 자르기](https://github.com/sjunh812/algorithm/blob/ff779f57aa9375a56d05b277255d04b2d07b2ba2/%EB%B0%B1%EC%A4%80/%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89/1654%EB%B2%88.%20%EB%9E%9C%EC%84%A0%20%EC%9E%90%EB%A5%B4%EA%B8%B0/Main.java)
   - [2470번 - 두 용액](https://github.com/sjunh812/algorithm/blob/ff779f57aa9375a56d05b277255d04b2d07b2ba2/%EB%B0%B1%EC%A4%80/%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89/2470%EB%B2%88.%20%EB%91%90%20%EC%9A%A9%EC%95%A1/Main.java)
   - [7454번 - 합이 0인 네 정수](https://github.com/sjunh812/algorithm/blob/ff779f57aa9375a56d05b277255d04b2d07b2ba2/%EB%B0%B1%EC%A4%80/%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89/7453%EB%B2%88.%20%ED%95%A9%EC%9D%B4%200%EC%9D%B8%20%EB%84%A4%20%EC%A0%95%EC%88%98/Main.java)
+  - [1300번 - K번째 수](https://github.com/sjunh812/algorithm/blob/master/%EB%B0%B1%EC%A4%80/%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89/1300%EB%B2%88.%20K%EB%B2%88%EC%A7%B8%20%EC%88%98/Main.java)
 - 다이나믹 프로그래밍
   - [2579번 - 계단 오르기](https://github.com/sjunh812/algorithm/blob/b3196465a53d5851fd0b02543d431712c3b2b9f8/%EB%B0%B1%EC%A4%80/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/2579%EB%B2%88.%20%EA%B3%84%EB%8B%A8%20%EC%98%A4%EB%A5%B4%EA%B8%B0/Main.java)
   - [11053번 - 가장 긴 증가하는 부분 수열](https://github.com/sjunh812/algorithm/blob/b3196465a53d5851fd0b02543d431712c3b2b9f8/%EB%B0%B1%EC%A4%80/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/11053%EB%B2%88.%20%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4/Main.java)
@@ -221,3 +222,5 @@ https://github.com/sjunh812/algorithm/blob/100529c5b4f9143c4ec528cd03579bf168a17
 - 스택, 큐
   - [다리를 지나는 트럭](https://github.com/sjunh812/algorithm/blob/e210bdddd01c4b8286c9ee5fc3da318f87a24a40/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EA%B3%A0%EB%93%9D%EC%A0%90%20Kit/%EC%8A%A4%ED%83%9D,%ED%81%90/%EB%8B%A4%EB%A6%AC%EB%A5%BC%20%EC%A7%80%EB%82%98%EB%8A%94%20%ED%8A%B8%EB%9F%AD/Main.java)
   - [주식가격](https://github.com/sjunh812/algorithm/blob/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EA%B3%A0%EB%93%9D%EC%A0%90%20Kit/%EC%8A%A4%ED%83%9D%2C%ED%81%90/%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9/Main.java)
+- 힙 (우선순위 큐)
+  - [디스크 컨트롤](https://github.com/sjunh812/algorithm/blob/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EA%B3%A0%EB%93%9D%EC%A0%90%20Kit/%ED%9E%99/%EB%94%94%EC%8A%A4%ED%81%AC%20%EC%BB%A8%ED%8A%B8%EB%A1%A4/Main.java)
