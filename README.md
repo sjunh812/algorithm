@@ -30,12 +30,12 @@ public class Main {
 <br>
 
 ## 목차
-1. [이것이 코딩 테스트다(이코테)](#이것이-코딩-테스트다(이코테)-정복하기)
-2. [백준](#백준-문제-풀기)
-3. [프로그래머스](#프로그래머스-문제-풀기) 
+- [이것이 코딩 테스트다](#이것이-코딩-테스트다-정복하기)
+- [백준](#백준-문제-풀기)
+- [프로그래머스](#프로그래머스-문제-풀기) 
 <br>
 
-## 1. 이것이 코딩 테스트다(이코테) 정복하기
+## 이것이 코딩 테스트다 정복하기
 - 그리디
   - [예제 3.1 - 거스름돈](https://github.com/sjunh812/algorithm/blob/0a0dadafd8bb1f71c336988c63384b7484179e57/%EC%9D%B4%EC%BD%94%ED%85%8C/%EA%B7%B8%EB%A6%AC%EB%94%94/3.1%20%EA%B1%B0%EC%8A%A4%EB%A6%84%EB%8F%88/Main.java)
   - [예제 3.2 - 큰 수의 법칙](https://github.com/sjunh812/algorithm/blob/0a0dadafd8bb1f71c336988c63384b7484179e57/%EC%9D%B4%EC%BD%94%ED%85%8C/%EA%B7%B8%EB%A6%AC%EB%94%94/3.2%20%ED%81%B0%EC%88%98%EC%9D%98%20%EB%B2%95%EC%B9%99/Main.java)
@@ -146,7 +146,7 @@ public class Main {
   - [암호 만들기 (백준 - 1759번)](https://github.com/sjunh812/algorithm/blob/master/%EC%9D%B4%EC%BD%94%ED%85%8C/%EB%B6%80%EB%A1%9D/%EC%95%94%ED%98%B8%20%EB%A7%8C%EB%93%A4%EA%B8%B0%20(%EB%B0%B1%EC%A4%80%20-%201759%EB%B2%88)/Main.java)
 <br>
 
-## 2. 백준 문제 풀기
+## 백준 문제 풀기
 - 그리디
   - [1744번 - 수 묶기](https://github.com/sjunh812/algorithm/blob/013efc6a21040c7b923f9c343f5f45dda151812b/%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%A6%AC%EB%94%94/1744%EB%B2%88.%20%EC%88%98%20%EB%AC%B6%EA%B8%B0/Main.java)
   - [1700번 - 멀티탭 스케줄링](https://github.com/sjunh812/algorithm/blob/81932afeb9c7d8c710256617104955cb83116185/%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%A6%AC%EB%94%94/1700%EB%B2%88.%20%EB%A9%80%ED%8B%B0%ED%83%AD%20%EC%8A%A4%EC%BC%80%EC%A5%B4%EB%A7%81/Main.java)
@@ -228,7 +228,7 @@ https://github.com/sjunh812/algorithm/blob/100529c5b4f9143c4ec528cd03579bf168a17
   - [1766번 - 문제집](https://github.com/sjunh812/algorithm/blob/7db28bad021a7b11b04fd429c242edf7e5e8f6a4/%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%EC%9D%B4%EB%A1%A0/1766%EB%B2%88.%20%EB%AC%B8%EC%A0%9C%EC%A7%91/Main.java)
 <br>
 
-## 3. 프로그래머스 문제 풀기
+## 프로그래머스 문제 풀기
 ### 코딩테스트 고득점 Kit
 - 해시
   - [위장](https://github.com/sjunh812/algorithm/blob/798a1e27bf49a3dfcfd30b2e6766748756917495/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EA%B3%A0%EB%93%9D%EC%A0%90%20Kit/%ED%95%B4%EC%8B%9C/%EC%9C%84%EC%9E%A5/Main.java)
