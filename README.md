@@ -241,3 +241,4 @@ https://github.com/sjunh812/algorithm/blob/100529c5b4f9143c4ec528cd03579bf168a17
   - [디스크 컨트롤](https://github.com/sjunh812/algorithm/blob/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EA%B3%A0%EB%93%9D%EC%A0%90%20Kit/%ED%9E%99/%EB%94%94%EC%8A%A4%ED%81%AC%20%EC%BB%A8%ED%8A%B8%EB%A1%A4/Main.java)
 - 그리디
   - [조이스틱](https://github.com/sjunh812/algorithm/blob/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EA%B3%A0%EB%93%9D%EC%A0%90%20Kit/%EA%B7%B8%EB%A6%AC%EB%94%94/%EC%A1%B0%EC%9D%B4%EC%8A%A4%ED%8B%B1/Main.java)
+  - [단속카메라](https://github.com/sjunh812/algorithm/blob/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EA%B3%A0%EB%93%9D%EC%A0%90%20Kit/%EA%B7%B8%EB%A6%AC%EB%94%94/%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC/Main.java)
