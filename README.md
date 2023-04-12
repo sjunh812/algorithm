@@ -237,10 +237,10 @@ https://github.com/sjunh812/algorithm/blob/100529c5b4f9143c4ec528cd03579bf168a17
 - 스택 큐
   - [다리를 지나는 트럭](https://github.com/sjunh812/algorithm/blob/e210bdddd01c4b8286c9ee5fc3da318f87a24a40/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EA%B3%A0%EB%93%9D%EC%A0%90%20Kit/%EC%8A%A4%ED%83%9D,%ED%81%90/%EB%8B%A4%EB%A6%AC%EB%A5%BC%20%EC%A7%80%EB%82%98%EB%8A%94%20%ED%8A%B8%EB%9F%AD/Main.java)
   - [주식가격](https://github.com/sjunh812/algorithm/blob/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EA%B3%A0%EB%93%9D%EC%A0%90%20Kit/%EC%8A%A4%ED%83%9D%2C%ED%81%90/%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9/Main.java)
-- 힙(Heap)
+- 힙 (Heap)
   - [디스크 컨트롤](https://github.com/sjunh812/algorithm/blob/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EA%B3%A0%EB%93%9D%EC%A0%90%20Kit/%ED%9E%99/%EB%94%94%EC%8A%A4%ED%81%AC%20%EC%BB%A8%ED%8A%B8%EB%A1%A4/Main.java)
-- 탐욕법(Greedy)
+- 탐욕법 (Greedy)
   - [조이스틱](https://github.com/sjunh812/algorithm/blob/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EA%B3%A0%EB%93%9D%EC%A0%90%20Kit/%EA%B7%B8%EB%A6%AC%EB%94%94/%EC%A1%B0%EC%9D%B4%EC%8A%A4%ED%8B%B1/Main.java)
   - [단속카메라](https://github.com/sjunh812/algorithm/blob/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EA%B3%A0%EB%93%9D%EC%A0%90%20Kit/%EA%B7%B8%EB%A6%AC%EB%94%94/%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC/Main.java)
-- 동적계획법(Dynamic Programming)
+- 동적계획법 (Dynamic Programming)
   - [N으로 표현](https://github.com/sjunh812/algorithm/blob/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EA%B3%A0%EB%93%9D%EC%A0%90%20Kit/%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95(Dynamic%20Programming)/N%EC%9C%BC%EB%A1%9C%20%ED%91%9C%ED%98%84/Main.java)
