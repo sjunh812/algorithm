@@ -225,6 +225,7 @@ https://github.com/sjunh812/algorithm/blob/100529c5b4f9143c4ec528cd03579bf168a17
   - [10217번 - KCM Travel](https://github.com/sjunh812/algorithm/blob/136b353d290898cc97f05827420f0e9ddc6292cd/%EB%B0%B1%EC%A4%80/%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C/10217%EB%B2%88.%20KCM%20Travel/Main.java)
   - [9370번 - 미확인 도착지](https://github.com/sjunh812/algorithm/blob/dded173b68ef0ff46d1f66cda05b8387d3b06fbf/%EB%B0%B1%EC%A4%80/%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C/9370%EB%B2%88.%20%EB%AF%B8%ED%99%95%EC%9D%B8%20%EB%8F%84%EC%B0%A9%EC%A7%80/Main.java)
   - [11657번 - 타임머신](https://github.com/sjunh812/algorithm/blob/13fcaa9f8cc05212e6e4424ec4500835d8d0652c/%EB%B0%B1%EC%A4%80/%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C/11657%EB%B2%88.%20%ED%83%80%EC%9E%84%EB%A8%B8%EC%8B%A0/Main.java)
+  - [6087번 - 레이저 통신](https://github.com/sjunh812/algorithm/blob/master/%EB%B0%B1%EC%A4%80/%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C/6087%EB%B2%88.%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%ED%86%B5%EC%8B%A0/Main.java)
 - 그래프 이론
   - [9466번 - 텀 프로젝트](https://github.com/sjunh812/algorithm/blob/13fcaa9f8cc05212e6e4424ec4500835d8d0652c/%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%EC%9D%B4%EB%A1%A0/9466%EB%B2%88.%20%ED%85%80%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/Main.java)
   - [1766번 - 문제집](https://github.com/sjunh812/algorithm/blob/7db28bad021a7b11b04fd429c242edf7e5e8f6a4/%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%EC%9D%B4%EB%A1%A0/1766%EB%B2%88.%20%EB%AC%B8%EC%A0%9C%EC%A7%91/Main.java)
