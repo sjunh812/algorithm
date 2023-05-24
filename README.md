@@ -233,6 +233,7 @@ https://github.com/sjunh812/algorithm/blob/100529c5b4f9143c4ec528cd03579bf168a17
 - 그래프 이론
   - [9466번 - 텀 프로젝트](https://github.com/sjunh812/algorithm/blob/13fcaa9f8cc05212e6e4424ec4500835d8d0652c/%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%EC%9D%B4%EB%A1%A0/9466%EB%B2%88.%20%ED%85%80%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/Main.java)
   - [1766번 - 문제집](https://github.com/sjunh812/algorithm/blob/7db28bad021a7b11b04fd429c242edf7e5e8f6a4/%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%EC%9D%B4%EB%A1%A0/1766%EB%B2%88.%20%EB%AC%B8%EC%A0%9C%EC%A7%91/Main.java)
+  - [17472번 - 다리 만들기 2](https://github.com/sjunh812/algorithm/blob/master/%EB%B0%B1%EC%A4%80/%EA%B7%B8%EB%9E%98%ED%94%84%20%EC%9D%B4%EB%A1%A0/17472%EB%B2%88.%20%EB%8B%A4%EB%A6%AC%20%EB%A7%8C%EB%93%A4%EA%B8%B0%202/Main.java)
 <br>
 
 ## 프로그래머스 문제 풀기
